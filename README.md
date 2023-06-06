@@ -1,8 +1,9 @@
-![MERN stack developer, react developer, back end developer](https://github.com/Hasib24/Hasib24/assets/113421583/0a802234-0199-4175-b39b-21db7a09604b)
+![MERN stack developer, react developer, back end developer(1)](https://github.com/Hasib24/Hasib24/assets/113421583/1329d535-c20f-4b9d-b8de-ff93afcc4b6f)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasib24&label=Profile%20views&color=0e75b6&style=flat" alt="hasib24" /> </p>
 
 - 🌱 I’m currently learning **Backend Development**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
