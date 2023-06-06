@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hasibul Islam</h1>
-<h3 align="center">A passionate web developer</h3>
+![MERN stack developer, react developer, back end developer](https://github.com/Hasib24/Hasib24/assets/113421583/0a802234-0199-4175-b39b-21db7a09604b)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasib24&label=Profile%20views&color=0e75b6&style=flat" alt="hasib24" /> </p>
 
